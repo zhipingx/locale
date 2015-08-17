@@ -1,0 +1,3 @@
+locale = Chinese_SimplifiedMSB
+poFile = Chinese_SimplifiedMSB.po
+id = Chinese_Simplified_MSB
