@@ -3634,727 +3634,727 @@ msgstr "%s 守护神进程"
 #: STRINGS.DEATH_TIPS.1
 msgctxt "STRINGS.DEATH_TIPS.1"
 msgid "The corporations may have won this time, but the future is always in motion.\nTry again - apply what you have learned from this setback and rebuild the firm!"
-msgstr ""
+msgstr "这一次是你的敌人赢了，但未来仍是变数。\n再试一次，把你从之前失败中学到的东西用上，重建这个组织！"
 
 #: STRINGS.DEATH_TIPS.2
 msgctxt "STRINGS.DEATH_TIPS.2"
 msgid "While risky, searching each level for all the credit safes will better prepare you for future missions."
-msgstr ""
+msgstr "尽管要承担风险，但你应该尽可能的搜寻关卡中的每一个保险柜，这样你才能有更多的资源应对未来的挑战。"
 
 #: STRINGS.DEATH_TIPS.3
 msgctxt "STRINGS.DEATH_TIPS.3"
 msgid "Alerted guards will hunt the level for your agents. Don't interfere with them if you don't have to."
-msgstr ""
+msgstr "被惊动的警卫会在整个关卡内追杀你的特工。如果有别的办法，就尽量不要打扰巡逻中的警卫。"
 
 #: STRINGS.DEATH_TIPS.4
 msgctxt "STRINGS.DEATH_TIPS.4"
 msgid "Some guards have armor. Make sure you look for items that can deal with it."
-msgstr ""
+msgstr "有的警卫有额外的护甲。请确保你有足够的准备来应对它。"
 
 #: STRINGS.DEATH_TIPS.5
 msgctxt "STRINGS.DEATH_TIPS.5"
 msgid "Each day will increase the security of all the corporations. Plan your flight time carefully."
-msgstr ""
+msgstr "所有企业的防卫等级都会随着天数而增加，不要把太多时间浪费在飞机上。"
 
 #: STRINGS.DEATH_TIPS.6
 msgctxt "STRINGS.DEATH_TIPS.6"
 msgid "Every mission provides key benefits to your agents. Choose wisely to build a strong team."
-msgstr ""
+msgstr "每类任务都能给你的特工提供不一样的好处，在选择下一个目标之前自习考虑一下。"
 
 #: STRINGS.DEATH_TIPS.7
 msgctxt "STRINGS.DEATH_TIPS.7"
 msgid "You can set many custom gameplay options when starting a new campaign"
-msgstr ""
+msgstr "在开始游戏前你可以调整关于游戏的许多选项。"
 
 #: STRINGS.FORMATS.ADDRESS
 msgctxt "STRINGS.FORMATS.ADDRESS"
 msgid "{1} {2}, {3}"
-msgstr ""
+msgstr "{1} {2}, {3}"
 
 #: STRINGS.FORMATS.AMT_KO
 msgctxt "STRINGS.FORMATS.AMT_KO"
 msgid "{1} KO"
-msgstr ""
+msgstr "{1} 瘫痪"
 
 #: STRINGS.FORMATS.AP
 msgctxt "STRINGS.FORMATS.AP"
 msgid "{1} AP"
-msgstr ""
+msgstr "{1} 行动点"
 
 #: STRINGS.FORMATS.CREDITS
 msgctxt "STRINGS.FORMATS.CREDITS"
 msgid "{1} CR"
-msgstr ""
+msgstr "{1} 资金"
 
 #: STRINGS.FORMATS.CREDS
 msgctxt "STRINGS.FORMATS.CREDS"
 msgid "{1}"
-msgstr ""
+msgstr "{1}"
 
 #: STRINGS.FORMATS.CREDS2
 msgctxt "STRINGS.FORMATS.CREDS2"
 msgid "{1} credits"
-msgstr ""
+msgstr "{1} 资金"
 
 #: STRINGS.FORMATS.KO_AMT
 msgctxt "STRINGS.FORMATS.KO_AMT"
 msgid "KO {1}"
-msgstr ""
+msgstr "击晕 {1} 回合"
 
 #: STRINGS.FORMATS.LEVEL
 msgctxt "STRINGS.FORMATS.LEVEL"
 msgid "Level {1}"
-msgstr ""
+msgstr "等级 {1}"
 
 #: STRINGS.FORMATS.MAX_AP
 msgctxt "STRINGS.FORMATS.MAX_AP"
 msgid "MAX AP: {1}"
-msgstr ""
+msgstr "行动点上限： {1}"
 
 #: STRINGS.FORMATS.PLUS_AP
 msgctxt "STRINGS.FORMATS.PLUS_AP"
 msgid "+{1} AP"
-msgstr ""
+msgstr "+{1} 行动点"
 
 #: STRINGS.FORMATS.PLUS_CREDS
 msgctxt "STRINGS.FORMATS.PLUS_CREDS"
 msgid "+{1} CR"
-msgstr ""
+msgstr "+{1} 资金"
 
 #: STRINGS.FORMATS.PLUS_PWR
 msgctxt "STRINGS.FORMATS.PLUS_PWR"
 msgid "+{1} PWR"
-msgstr ""
+msgstr "+{1} 能量"
 
 #: STRINGS.FORMATS.PWR
 msgctxt "STRINGS.FORMATS.PWR"
 msgid "{1} PWR"
-msgstr ""
+msgstr "{1} 能量"
 
 #: STRINGS.FORMATS.REP
 msgctxt "STRINGS.FORMATS.REP"
 msgid "{1} REP"
-msgstr ""
+msgstr "{1} REP"
 
 #: STRINGS.GENDER_CONTEXT.female.He
 msgctxt "STRINGS.GENDER_CONTEXT.female.He"
 msgid "She"
-msgstr ""
+msgstr "她"
 
 #: STRINGS.GENDER_CONTEXT.female.Him
 msgctxt "STRINGS.GENDER_CONTEXT.female.Him"
 msgid "Her"
-msgstr ""
+msgstr "她"
 
 #: STRINGS.GENDER_CONTEXT.female.His
 msgctxt "STRINGS.GENDER_CONTEXT.female.His"
 msgid "Her"
-msgstr ""
+msgstr "她"
 
 #: STRINGS.GENDER_CONTEXT.female.Own
 msgctxt "STRINGS.GENDER_CONTEXT.female.Own"
 msgid "Hers"
-msgstr ""
+msgstr "她的"
 
 #: STRINGS.GENDER_CONTEXT.female.he
 msgctxt "STRINGS.GENDER_CONTEXT.female.he"
 msgid "she"
-msgstr ""
+msgstr "她"
 
 #: STRINGS.GENDER_CONTEXT.female.him
 msgctxt "STRINGS.GENDER_CONTEXT.female.him"
 msgid "her"
-msgstr ""
+msgstr "她"
 
 #: STRINGS.GENDER_CONTEXT.female.his
 msgctxt "STRINGS.GENDER_CONTEXT.female.his"
 msgid "her"
-msgstr ""
+msgstr "她"
 
 #: STRINGS.GENDER_CONTEXT.female.own
 msgctxt "STRINGS.GENDER_CONTEXT.female.own"
 msgid "hers"
-msgstr ""
+msgstr "她的"
 
 #: STRINGS.GENDER_CONTEXT.it.He
 msgctxt "STRINGS.GENDER_CONTEXT.it.He"
 msgid "It"
-msgstr ""
+msgstr "它"
 
 #: STRINGS.GENDER_CONTEXT.it.Him
 msgctxt "STRINGS.GENDER_CONTEXT.it.Him"
 msgid "It"
-msgstr ""
+msgstr "它"
 
 #: STRINGS.GENDER_CONTEXT.it.His
 msgctxt "STRINGS.GENDER_CONTEXT.it.His"
 msgid "Its"
-msgstr ""
+msgstr "它的"
 
 #: STRINGS.GENDER_CONTEXT.it.Own
 msgctxt "STRINGS.GENDER_CONTEXT.it.Own"
 msgid "Its"
-msgstr ""
+msgstr "它的"
 
 #: STRINGS.GENDER_CONTEXT.it.he
 msgctxt "STRINGS.GENDER_CONTEXT.it.he"
 msgid "it"
-msgstr ""
+msgstr "它"
 
 #: STRINGS.GENDER_CONTEXT.it.him
 msgctxt "STRINGS.GENDER_CONTEXT.it.him"
 msgid "it"
-msgstr ""
+msgstr "它"
 
 #: STRINGS.GENDER_CONTEXT.it.his
 msgctxt "STRINGS.GENDER_CONTEXT.it.his"
 msgid "its"
-msgstr ""
+msgstr "它的"
 
 #: STRINGS.GENDER_CONTEXT.it.own
 msgctxt "STRINGS.GENDER_CONTEXT.it.own"
 msgid "its"
-msgstr ""
+msgstr "它的"
 
 #: STRINGS.GENDER_CONTEXT.male.He
 msgctxt "STRINGS.GENDER_CONTEXT.male.He"
 msgid "He"
-msgstr ""
+msgstr "他"
 
 #: STRINGS.GENDER_CONTEXT.male.Him
 msgctxt "STRINGS.GENDER_CONTEXT.male.Him"
 msgid "Him"
-msgstr ""
+msgstr "他"
 
 #: STRINGS.GENDER_CONTEXT.male.His
 msgctxt "STRINGS.GENDER_CONTEXT.male.His"
 msgid "His"
-msgstr ""
+msgstr "他的"
 
 #: STRINGS.GENDER_CONTEXT.male.Own
 msgctxt "STRINGS.GENDER_CONTEXT.male.Own"
 msgid "His"
-msgstr ""
+msgstr "他的"
 
 #: STRINGS.GENDER_CONTEXT.male.he
 msgctxt "STRINGS.GENDER_CONTEXT.male.he"
 msgid "he"
-msgstr ""
+msgstr "他"
 
 #: STRINGS.GENDER_CONTEXT.male.him
 msgctxt "STRINGS.GENDER_CONTEXT.male.him"
 msgid "him"
-msgstr ""
+msgstr "他"
 
 #: STRINGS.GENDER_CONTEXT.male.his
 msgctxt "STRINGS.GENDER_CONTEXT.male.his"
 msgid "his"
-msgstr ""
+msgstr "他的"
 
 #: STRINGS.GENDER_CONTEXT.male.own
 msgctxt "STRINGS.GENDER_CONTEXT.male.own"
 msgid "his"
-msgstr ""
+msgstr "他的"
 
 #: STRINGS.GUARDS.AKUMA_DRONE
 msgctxt "STRINGS.GUARDS.AKUMA_DRONE"
 msgid "AKUMA DRONE"
-msgstr ""
+msgstr "恶魔无人机"
 
 #: STRINGS.GUARDS.CAMERA_DRONE
 msgctxt "STRINGS.GUARDS.CAMERA_DRONE"
 msgid "CAMERA DRONE"
-msgstr ""
+msgstr "监控无人机"
 
 #: STRINGS.GUARDS.CAPTAIN
 msgctxt "STRINGS.GUARDS.CAPTAIN"
 msgid "CAPTAIN"
-msgstr ""
+msgstr "队长"
 
 #: STRINGS.GUARDS.CEO
 msgctxt "STRINGS.GUARDS.CEO"
 msgid "FINANCIAL EXECUTIVE"
-msgstr ""
+msgstr "财务主管"
 
 #: STRINGS.GUARDS.ELITE_ENFORCER
 msgctxt "STRINGS.GUARDS.ELITE_ENFORCER"
 msgid "ELITE ENFORCER"
-msgstr ""
+msgstr "精英执法者"
 
 #: STRINGS.GUARDS.ELITE_GUARD
 msgctxt "STRINGS.GUARDS.ELITE_GUARD"
 msgid "ELITE SECURITY"
-msgstr ""
+msgstr "精英保安"
 
 #: STRINGS.GUARDS.ENFORCER
 msgctxt "STRINGS.GUARDS.ENFORCER"
 msgid "ENFORCER"
-msgstr ""
+msgstr "执法者"
 
 #: STRINGS.GUARDS.GUARD
 msgctxt "STRINGS.GUARDS.GUARD"
 msgid "SECURITY GUARD"
-msgstr ""
+msgstr "保安"
 
 #: STRINGS.GUARDS.HEAVY_GUARD
 msgctxt "STRINGS.GUARDS.HEAVY_GUARD"
 msgid "HEAVY SECURITY"
-msgstr ""
+msgstr "重装保安"
 
 #: STRINGS.GUARDS.MKI
 msgctxt "STRINGS.GUARDS.MKI"
 msgid "MODDED MKI"
-msgstr ""
+msgstr "改良MKI形"
 
 #: STRINGS.GUARDS.MKII
 msgctxt "STRINGS.GUARDS.MKII"
 msgid "MODDED MKII"
-msgstr ""
+msgstr "改良MKII形"
 
 #: STRINGS.GUARDS.NULL_DRONE
 msgctxt "STRINGS.GUARDS.NULL_DRONE"
 msgid "NULL DRONE"
-msgstr ""
+msgstr "真空无人机"
 
 #: STRINGS.GUARDS.OBAKE_DRONE
 msgctxt "STRINGS.GUARDS.OBAKE_DRONE"
 msgid "OBAKE DRONE v1.0"
-msgstr ""
+msgstr "猎狗爬行者 v1.0"
 
 #: STRINGS.GUARDS.OBAKE_DRONE2
 msgctxt "STRINGS.GUARDS.OBAKE_DRONE2"
 msgid "OBAKE DRONE v2.0"
-msgstr ""
+msgstr "猎狗爬行者 v2.0"
 
 #: STRINGS.GUARDS.OMNI_CRIER
 msgctxt "STRINGS.GUARDS.OMNI_CRIER"
 msgid "OMNI HARBINGER"
-msgstr ""
+msgstr "OMNI 先驱者"
 
 #: STRINGS.GUARDS.OMNI_HUNTER
 msgctxt "STRINGS.GUARDS.OMNI_HUNTER"
 msgid "OMNI HUNTER"
-msgstr ""
+msgstr "OMNI 猎杀者"
 
 #: STRINGS.GUARDS.OMNI_KILLER
 msgctxt "STRINGS.GUARDS.OMNI_KILLER"
 msgid "OMNI KILLER"
-msgstr ""
+msgstr "OMNI 刺杀者"
 
 #: STRINGS.GUARDS.OMNI_OBSERVER
 msgctxt "STRINGS.GUARDS.OMNI_OBSERVER"
 msgid "OMNI OBSERVER"
-msgstr ""
+msgstr "OMNI 观察者"
 
 #: STRINGS.GUARDS.OMNI_PROTECTOR
 msgctxt "STRINGS.GUARDS.OMNI_PROTECTOR"
 msgid "OMNI PROTECTOR"
-msgstr ""
+msgstr "OMNI 守护者"
 
 #: STRINGS.GUARDS.OMNI_SOLDIER
 msgctxt "STRINGS.GUARDS.OMNI_SOLDIER"
 msgid "OMNI SOLDIER"
-msgstr ""
+msgstr "OMNI 正规军"
 
 #: STRINGS.GUARDS.SCIENTIST
 msgctxt "STRINGS.GUARDS.SCIENTIST"
 msgid "SOFTWARE ENGINEER"
-msgstr ""
+msgstr "软件工程师"
 
 #: STRINGS.GUARDS.SPEC_OPS
 msgctxt "STRINGS.GUARDS.SPEC_OPS"
 msgid "SPEC OPS"
-msgstr ""
+msgstr "特别行动组"
 
 #: STRINGS.GUARDS.SUPPORT_GUARD
 msgctxt "STRINGS.GUARDS.SUPPORT_GUARD"
 msgid "SUPPORT GUARD"
-msgstr ""
+msgstr "支援警卫"
 
 #: STRINGS.GUARD_STATUS.COMBAT
 msgctxt "STRINGS.GUARD_STATUS.COMBAT"
 msgid "ALERT"
-msgstr ""
+msgstr "警戒"
 
 #: STRINGS.GUARD_STATUS.FLEEING
 msgctxt "STRINGS.GUARD_STATUS.FLEEING"
 msgid "FLEEING"
-msgstr ""
+msgstr "正在逃跑"
 
 #: STRINGS.GUARD_STATUS.HUNTING
 msgctxt "STRINGS.GUARD_STATUS.HUNTING"
 msgid "HUNTING"
-msgstr ""
+msgstr "正在猎杀"
 
 #: STRINGS.GUARD_STATUS.IDLE
 msgctxt "STRINGS.GUARD_STATUS.IDLE"
 msgid "STATIONARY"
-msgstr ""
+msgstr "静止"
 
 #: STRINGS.GUARD_STATUS.INVESTIGATING
 msgctxt "STRINGS.GUARD_STATUS.INVESTIGATING"
 msgid "INVESTIGATING"
-msgstr ""
+msgstr "正在调查"
 
 #: STRINGS.GUARD_STATUS.PATROLLING
 msgctxt "STRINGS.GUARD_STATUS.PATROLLING"
 msgid "PATROLLING"
-msgstr ""
+msgstr "正在巡逻"
 
 #: STRINGS.GUARD_STATUS.START_HUNTING
 msgctxt "STRINGS.GUARD_STATUS.START_HUNTING"
 msgid "PREPARING TO HUNT"
-msgstr ""
+msgstr "准备猎杀"
 
 #: STRINGS.GUARD_STATUS.START_INVESTIGATING
 msgctxt "STRINGS.GUARD_STATUS.START_INVESTIGATING"
 msgid "LOOKING AROUND"
-msgstr ""
+msgstr "环顾四周"
 
 #: STRINGS.GUARD_STATUS.STATUS
 msgctxt "STRINGS.GUARD_STATUS.STATUS"
 msgid "STATUS:"
-msgstr ""
+msgstr "状态："
 
 #: STRINGS.INCOGNITA_TEAM_DOWN.1
 msgctxt "STRINGS.INCOGNITA_TEAM_DOWN.1"
 msgid "Team eliminated. Disengaging security lock."
-msgstr ""
+msgstr "团队被消灭，安全锁脱离。"
 
 #: STRINGS.INCOGNITA_TEAM_DOWN.2
 msgctxt "STRINGS.INCOGNITA_TEAM_DOWN.2"
 msgid "Team eliminated. All assets compromised."
-msgstr ""
+msgstr "团队被消灭，所有资产自毁。"
 
 #: STRINGS.INCOGNITA_TEAM_DOWN.3
 msgctxt "STRINGS.INCOGNITA_TEAM_DOWN.3"
 msgid "Team eliminated. Shutting down neural sync."
-msgstr ""
+msgstr "团队被消灭，神经同步终端。"
 
 #: STRINGS.ITEMS.ACCELERATOR_1
 msgctxt "STRINGS.ITEMS.ACCELERATOR_1"
 msgid "Accelerator Chip I"
-msgstr ""
+msgstr "加速芯片I型"
 
 #: STRINGS.ITEMS.ACCELERATOR_1_FLAVOR
 msgctxt "STRINGS.ITEMS.ACCELERATOR_1_FLAVOR"
 msgid "It is possible to increase a console's uplink potential by optimizing its process tree and emptying its recycling bin."
-msgstr ""
+msgstr "这个芯片可以通过优化访问流程树或排空回收站的方式增加控制台的上行链路潜力。"
 
 #: STRINGS.ITEMS.ACCELERATOR_1_TOOLTIP
 msgctxt "STRINGS.ITEMS.ACCELERATOR_1_TOOLTIP"
 msgid "Use at a console to increase the amount of PWR generated by 1."
-msgstr ""
+msgstr "在一个控制台上使用，从控制台上额外提取1点能量。"
 
 #: STRINGS.ITEMS.ACCELERATOR_2
 msgctxt "STRINGS.ITEMS.ACCELERATOR_2"
 msgid "Accelerator Chip II"
-msgstr ""
+msgstr "加速芯片II型"
 
 #: STRINGS.ITEMS.ACCELERATOR_2_FLAVOR
 msgctxt "STRINGS.ITEMS.ACCELERATOR_2_FLAVOR"
 msgid "It is possible to increase a console's uplink potential by optimizing its process tree and emptying its recycling bin."
-msgstr ""
+msgstr "这个芯片可以通过优化访问流程树或排空回收站的方式增加控制台的上行链路潜力。"
 
 #: STRINGS.ITEMS.ACCELERATOR_2_TOOLTIP
 msgctxt "STRINGS.ITEMS.ACCELERATOR_2_TOOLTIP"
 msgid "Use at a console to increase the amount of PWR generated by 2."
-msgstr ""
+msgstr "在一个控制台上使用，从控制台上额外提取2点能量。"
 
 #: STRINGS.ITEMS.ACCELERATOR_3
 msgctxt "STRINGS.ITEMS.ACCELERATOR_3"
 msgid "Accelerator Chip III"
-msgstr ""
+msgstr "加速芯片III型"
 
 #: STRINGS.ITEMS.ACCELERATOR_3_FLAVOR
 msgctxt "STRINGS.ITEMS.ACCELERATOR_3_FLAVOR"
 msgid "It is possible to increase a console's uplink potential by optimizing its process tree and emptying its recycling bin."
-msgstr ""
+msgstr "这个芯片可以通过优化访问流程树或排空回收站的方式增加控制台的上行链路潜力。"
 
 #: STRINGS.ITEMS.ACCELERATOR_3_TOOLTIP
 msgctxt "STRINGS.ITEMS.ACCELERATOR_3_TOOLTIP"
 msgid "Use at a console to increase the amount of PWR generated by 4."
-msgstr ""
+msgstr "在一个控制台上使用，从控制台上额外提取4点能量。"
 
 #: STRINGS.ITEMS.AMMO
 msgctxt "STRINGS.ITEMS.AMMO"
 msgid "AMMO %d/%d"
-msgstr ""
+msgstr "弹药 %d/%d"
 
 #: STRINGS.ITEMS.AUGMENT
 msgctxt "STRINGS.ITEMS.AUGMENT"
 msgid "AUGMENT"
-msgstr ""
+msgstr "植入体"
 
 #: STRINGS.ITEMS.AUGMENTS.ANATOMY_ANALYSIS
 msgctxt "STRINGS.ITEMS.AUGMENTS.ANATOMY_ANALYSIS"
 msgid "Anatomy Analysis"
-msgstr ""
+msgstr "解剖学分析"
 
 #: STRINGS.ITEMS.AUGMENTS.ANATOMY_ANALYSIS_FLAVOR
 msgctxt "STRINGS.ITEMS.AUGMENTS.ANATOMY_ANALYSIS_FLAVOR"
 msgid "A single precise strike to the right location is enough to disrupt most commercial heart monitors. Fortunately, the calculations involved in finding that location are beyond normal human cognition."
-msgstr ""
+msgstr "理论上讲，在正确的时间，用枪击中正确的位置，就可以在大部分商用心脏监控器报警之前击穿它。但问题在于，刚才提到的时间是毫秒级，位置是毫米级的，换言之，如果不借助计算机辅助思维，单凭人类的感知和操作几乎是永远不可能达成这一条件的。"
 
 #: STRINGS.ITEMS.AUGMENTS.ANATOMY_ANALYSIS_TIP
 msgctxt "STRINGS.ITEMS.AUGMENTS.ANATOMY_ANALYSIS_TIP"
 msgid "Kills do not increase the alarm tracker. Costs 3 PWR per kill."
-msgstr ""
+msgstr "击杀不会触发警报。每次击杀消耗3点能量。"
 
 #: STRINGS.ITEMS.AUGMENTS.BANKS
 msgctxt "STRINGS.ITEMS.AUGMENTS.BANKS"
 msgid "Crypto Computer"
-msgstr ""
+msgstr "脑内译码器"
 
 #: STRINGS.ITEMS.AUGMENTS.BANKS_FLAVOR
 msgctxt "STRINGS.ITEMS.AUGMENTS.BANKS_FLAVOR"
 msgid "The quantum descrambler implanted in Banks' cranium makes short work of most encryption."
-msgstr ""
+msgstr "这个植入班克斯颅骨中的量子解码器可以在瞬息之间破译16位以下的密码。"
 
 #: STRINGS.ITEMS.AUGMENTS.BANKS_TIP
 msgctxt "STRINGS.ITEMS.AUGMENTS.BANKS_TIP"
 msgid "Unlocks lvl1 security doors without a passcard"
-msgstr ""
+msgstr "可以在没有密码卡的情况下，直接解锁一级安全门。"
 
 #: STRINGS.ITEMS.AUGMENTS.CARBON_MYOMER
 msgctxt "STRINGS.ITEMS.AUGMENTS.CARBON_MYOMER"
 msgid "Carbon Myomer"
-msgstr ""
+msgstr "碳基皮下拉兜"
 
 #: STRINGS.ITEMS.AUGMENTS.CARBON_MYOMER_FLAVOR
 msgctxt "STRINGS.ITEMS.AUGMENTS.CARBON_MYOMER_FLAVOR"
 msgid "Replacement Myomer bundles that produce an accessable compartment in unused body space."
-msgstr ""
+msgstr "把身体上一部分没有被利用的空间掏掉，就可以在这里藏一些别的东西了。"
 
 #: STRINGS.ITEMS.AUGMENTS.CARBON_MYOMER_TIP
 msgctxt "STRINGS.ITEMS.AUGMENTS.CARBON_MYOMER_TIP"
 msgid "Agent can carry one more item easily."
-msgstr ""
+msgstr "特工可以多带一件东西。"
 
 #: STRINGS.ITEMS.AUGMENTS.CENTRALS
 msgctxt "STRINGS.ITEMS.AUGMENTS.CENTRALS"
 msgid "Antiviral Proxy"
-msgstr ""
+msgstr "抗病毒代理"
 
 #: STRINGS.ITEMS.AUGMENTS.CENTRALS_FLAVOR
 msgctxt "STRINGS.ITEMS.AUGMENTS.CENTRALS_FLAVOR"
 msgid "The highly confidental work of a Daemon engineer, this subdermal chip re-routes PWR from other networked subroutines. Rumor has it that Central has the only prototype."
-msgstr ""
+msgstr "守护神设计师们设计的反制之道，高度机密，这个皮下芯片可以在守护神进程的激发下生成大量能量。据说枢机身上安装的这个芯片是世界上仅存的原型机。"
 
 #: STRINGS.ITEMS.AUGMENTS.CENTRALS_TIP
 msgctxt "STRINGS.ITEMS.AUGMENTS.CENTRALS_TIP"
 msgid "Gain 5 PWR on any DAEMON install."
-msgstr ""
+msgstr "在守护神进程安装时，获得5点能量。"
 
 #: STRINGS.ITEMS.AUGMENTS.CHAMELEON_MOVEMENT
 msgctxt "STRINGS.ITEMS.AUGMENTS.CHAMELEON_MOVEMENT"
 msgid "Chameleon Movement"
-msgstr ""
+msgstr "变色龙机芯"
 
 #: STRINGS.ITEMS.AUGMENTS.CHAMELEON_MOVEMENT_FLAVOR
 msgctxt "STRINGS.ITEMS.AUGMENTS.CHAMELEON_MOVEMENT_FLAVOR"
 msgid "Contrary to it's name, the Chameleon Movement implant does not allow the host to change their appearance. Rather - it analyzes their surroundings to show them the most inconspicuous path for the way they look."
-msgstr ""
+msgstr "尽管名字里有变色龙，但变色龙机芯并不能改变用户的外观。反之，它会在用户周围出现光谱扰动时分析周围的环境，从而优化用户的行动模式。"
 
 #: STRINGS.ITEMS.AUGMENTS.CHAMELEON_MOVEMENT_TIP
 msgctxt "STRINGS.ITEMS.AUGMENTS.CHAMELEON_MOVEMENT_TIP"
 msgid "Gain 6 AP."
-msgstr ""
+msgstr "获得6个行动点。"
 
 #: STRINGS.ITEMS.AUGMENTS.DECKARDS
 msgctxt "STRINGS.ITEMS.AUGMENTS.DECKARDS"
 msgid "Neural Networking"
-msgstr ""
+msgstr "神经网络"
 
 #: STRINGS.ITEMS.AUGMENTS.DECKARDS_FLAVOR
 msgctxt "STRINGS.ITEMS.AUGMENTS.DECKARDS_FLAVOR"
 msgid "Over the years, most of Decker's vertebrae have been replaced with synthetics of varying quality. When jacked in, the jolts of pain allow him to differentiate subroutines."
-msgstr ""
+msgstr "多年来，戴克的脊椎已经被各种乱七八糟的人造装置替换掉了。当连入设备时，骤然袭来的疼痛感可以让他凭借这种感觉识别设备上的子进程。"
 
 #: STRINGS.ITEMS.AUGMENTS.DECKARDS_TIP
 msgctxt "STRINGS.ITEMS.AUGMENTS.DECKARDS_TIP"
 msgid "Allows agent to uncover DAEMONS in adjacent objects."
-msgstr ""
+msgstr "允许特工揭露身边设备上的守护神进程。"
 
 #: STRINGS.ITEMS.AUGMENTS.DECKER_2
 msgctxt "STRINGS.ITEMS.AUGMENTS.DECKER_2"
 msgid "Sensory Injector"
-msgstr ""
+msgstr "感知注射器"
 
 #: STRINGS.ITEMS.AUGMENTS.DECKER_2_FLAVOR
 msgctxt "STRINGS.ITEMS.AUGMENTS.DECKER_2_FLAVOR"
 msgid "Many a guard have caught a glimpse of Decker. None have caught him."
-msgstr ""
+msgstr "许多保安都瞄过戴克，但没有人真正抓到过他。"
 
 #: STRINGS.ITEMS.AUGMENTS.DECKER_2_TIP
 msgctxt "STRINGS.ITEMS.AUGMENTS.DECKER_2_TIP"
 msgid "Gives the agent +2 AP when seen by the enemy (including peripheral vision)"
-msgstr ""
+msgstr "当被敌人看到时，给特工增加2个行动点。（外围视野也算）"
 
 #: STRINGS.ITEMS.AUGMENTS.DISTRIBUTED_PROCESSING
 msgctxt "STRINGS.ITEMS.AUGMENTS.DISTRIBUTED_PROCESSING"
 msgid "Distributed Processing"
-msgstr ""
+msgstr "分布处理"
 
 #: STRINGS.ITEMS.AUGMENTS.DISTRIBUTED_PROCESSING_FLAVOR
 msgctxt "STRINGS.ITEMS.AUGMENTS.DISTRIBUTED_PROCESSING_FLAVOR"
 msgid "There is plenty of room in the human body to pack in additional processing power. Artificial neural bundles may be implanted into any major muscle mass with minimal loss of strength."
-msgstr ""
+msgstr "人体中有很多空间可以植入额外的处理器。这个人造的神经束可以在不损伤肌肉力量的情况下植入大型肌肉群。"
 
 #: STRINGS.ITEMS.AUGMENTS.DISTRIBUTED_PROCESSING_TIP
 msgctxt "STRINGS.ITEMS.AUGMENTS.DISTRIBUTED_PROCESSING_TIP"
 msgid "50% chance to gain a PWR point at the beginning of each turn."
-msgstr ""
+msgstr "每回合开始时，有50%的概率获得1个能量点。"
 
 #: STRINGS.ITEMS.AUGMENTS.DMS
 msgctxt "STRINGS.ITEMS.AUGMENTS.DMS"
 msgid "Dead Man's Switch"
-msgstr ""
+msgstr "生命开关"
 
 #: STRINGS.ITEMS.AUGMENTS.DMS_FLAVOR
 msgctxt "STRINGS.ITEMS.AUGMENTS.DMS_FLAVOR"
 msgid "Killing the host triggers the switch, but for what purpose?"
-msgstr ""
+msgstr "这个开关会在宿主死亡时被触发，但为什么要这样做呢？"
 
 #: STRINGS.ITEMS.AUGMENTS.DMS_TIP
 msgctxt "STRINGS.ITEMS.AUGMENTS.DMS_TIP"
 msgid "Activates when host dies."
-msgstr ""
+msgstr "当宿主死亡时激活。"
 
 #: STRINGS.ITEMS.AUGMENTS.FINAL_LEVEL
 msgctxt "STRINGS.ITEMS.AUGMENTS.FINAL_LEVEL"
 msgid "OMNI Security Chip"
-msgstr ""
+msgstr "OMNI安全芯片"
 
 #: STRINGS.ITEMS.AUGMENTS.FINAL_LEVEL_FLAVOR
 msgctxt "STRINGS.ITEMS.AUGMENTS.FINAL_LEVEL_FLAVOR"
 msgid "Filled with OMNI security algorithms. Easily the most valuable megabyte and a half of data in the world."
-msgstr ""
+msgstr "装满了OMNI安全算法。通过这套算法可以访问到整个世界一半的数据。"
 
 #: STRINGS.ITEMS.AUGMENTS.FINAL_LEVEL_TIP
 msgctxt "STRINGS.ITEMS.AUGMENTS.FINAL_LEVEL_TIP"
 msgid "Bring to the final security door to unlock"
-msgstr ""
+msgstr "把它带到终端安全门来打开它。"
 
 #: STRINGS.ITEMS.AUGMENTS.HOLOCIRCUIT
 msgctxt "STRINGS.ITEMS.AUGMENTS.HOLOCIRCUIT"
 msgid "HoloCircuit Overloaders"
-msgstr ""
+msgstr "全息视神经冲击"
 
 #: STRINGS.ITEMS.AUGMENTS.HOLOCIRCUIT_FLAVOR
 msgctxt "STRINGS.ITEMS.AUGMENTS.HOLOCIRCUIT_FLAVOR"
 msgid "Modern tactical displays stream terabytes of situational data directly into the corneas of security forces. They also provide an avenue of attack."
-msgstr ""
+msgstr "在被激活后，将成吨的战术数据直接投射到保安部队的眼角膜中。这会让他们在海量的数据冲击下失去意识。"
 
 #: STRINGS.ITEMS.AUGMENTS.HOLOCIRCUIT_TIP
 msgctxt "STRINGS.ITEMS.AUGMENTS.HOLOCIRCUIT_TIP"
 msgid "Knock out all enemies in a small area around this agent"
-msgstr ""
+msgstr "击晕特工周围3格之内所有的保安。"
 
 #: STRINGS.ITEMS.AUGMENTS.INTERNATIONALS
 msgctxt "STRINGS.ITEMS.AUGMENTS.INTERNATIONALS"
 msgid "Wireless Emitter"
-msgstr ""
+msgstr "无线发射器"
 
 #: STRINGS.ITEMS.AUGMENTS.INTERNATIONALS_2
 msgctxt "STRINGS.ITEMS.AUGMENTS.INTERNATIONALS_2"
 msgid "Network Siphon"
-msgstr ""
+msgstr "网络虹吸管"
 
 #: STRINGS.ITEMS.AUGMENTS.INTERNATIONALS_2_FLAVOR
 msgctxt "STRINGS.ITEMS.AUGMENTS.INTERNATIONALS_2_FLAVOR"
 msgid "The mark of a great agent is the ability to take your enemy's greatest strength and turn it into their weakness."
-msgstr ""
+msgstr "伟大特工的标记之一就是能够把敌人最强的反抗力量化为己用。"
 
 #: STRINGS.ITEMS.AUGMENTS.INTERNATIONALS_2_TIP
 msgctxt "STRINGS.ITEMS.AUGMENTS.INTERNATIONALS_2_TIP"
 msgid "Generates PWR when ALARM LEVEL increases.\nPWR gained: 2x Alarm Level."
-msgstr ""
+msgstr "当警报等级提升时生成能量。\n能量生成量为当前警报等级的两倍。"
 
 #: STRINGS.ITEMS.AUGMENTS.INTERNATIONALS_FLAVOR
 msgctxt "STRINGS.ITEMS.AUGMENTS.INTERNATIONALS_FLAVOR"
 msgid "Using her skin as an antenna, Internationale is able to manipulate electronics at a distance."
-msgstr ""
+msgstr "通过把她的皮肤作为天线，国际妹可以远距离操纵电子设备。"
 
 #: STRINGS.ITEMS.AUGMENTS.INTERNATIONALS_TIP
 msgctxt "STRINGS.ITEMS.AUGMENTS.INTERNATIONALS_TIP"
 msgid "Allows agent to hack items from a distance, through walls. Automatically reveals nearby mainframe objects."
-msgstr ""
+msgstr "允许特工从远处连入设备，遥控能力可以穿墙，并能够自动探测附近的主机设备。"
 
 #: STRINGS.ITEMS.AUGMENTS.MICROSLAM_APPARATUS
 msgctxt "STRINGS.ITEMS.AUGMENTS.MICROSLAM_APPARATUS"
 msgid "MicroSLAM Apparatus"
-msgstr ""
+msgstr "电子地图工匠"
 
 #: STRINGS.ITEMS.AUGMENTS.MICROSLAM_APPARATUS_FLAVOR
 msgctxt "STRINGS.ITEMS.AUGMENTS.MICROSLAM_APPARATUS_FLAVOR"
 msgid "This embedded apparatus implements SLAM (Simultaneous Localization and Mapping) to create an environment map of explored regions and automatically updates the data to the central servers."
-msgstr ""
+msgstr "这个嵌入式全息记录仪可以将你探测到的地图记录为全息影像，这些机密数据可以在任务结束后拿去卖钱。"
 
 #: STRINGS.ITEMS.AUGMENTS.MICROSLAM_APPARATUS_TIP
 msgctxt "STRINGS.ITEMS.AUGMENTS.MICROSLAM_APPARATUS_TIP"
 msgid "Converts the percentage of the map explored into some extra credit."
-msgstr ""
+msgstr "把探测到的地图按照一定比例在任务结束后兑换成资金。"
 
 #: STRINGS.ITEMS.AUGMENTS.MONSTERS
 msgctxt "STRINGS.ITEMS.AUGMENTS.MONSTERS"
 msgid "Fabricator Multithreading"
-msgstr ""
+msgstr "多线程纳米加工"
 
 #: STRINGS.ITEMS.AUGMENTS.MONSTERS_FLAVOR
 msgctxt "STRINGS.ITEMS.AUGMENTS.MONSTERS_FLAVOR"
 msgid "As an expert hacker and savvy tech opportunist, Monst3r has built a unique network of hyper efficient Nanofabricator coroutines."
-msgstr ""
+msgstr "作为顶尖的黑客和技术投机商，怪兽在现有的纳米网络架构之上搭建了这个独一无二的后门通道。"
 
 #: STRINGS.ITEMS.AUGMENTS.MONSTERS_TIP
 msgctxt "STRINGS.ITEMS.AUGMENTS.MONSTERS_TIP"
 msgid "Nanofabricator purchases cost 15% less."
-msgstr ""
+msgstr "从纳米打印机购物时优惠15%。"
 
 #: STRINGS.ITEMS.AUGMENTS.NET_DOWNLINK
 msgctxt "STRINGS.ITEMS.AUGMENTS.NET_DOWNLINK"
 msgid "Net Downlink"
-msgstr ""
+msgstr "网络下行"
 
 #: STRINGS.ITEMS.AUGMENTS.NET_DOWNLINK_FLAVOR
 msgctxt "STRINGS.ITEMS.AUGMENTS.NET_DOWNLINK_FLAVOR"
 msgid "Offloads some basic brain functions to a remote server, allowing the host to focus on more pressing matters."
-msgstr ""
+msgstr "将一些基本的大脑功能转移到远程服务器上异步处理，这能让宿主专注于更为紧迫的问题。"
 
 #: STRINGS.ITEMS.AUGMENTS.NET_DOWNLINK_TIP
 msgctxt "STRINGS.ITEMS.AUGMENTS.NET_DOWNLINK_TIP"
 msgid "Agent gains 2 AP (MAX: 6 AP)"
-msgstr ""
+msgstr "特工获得2个行动点（每回合最多获得6个）"
 
 #: STRINGS.ITEMS.AUGMENTS.NIKAS
 msgctxt "STRINGS.ITEMS.AUGMENTS.NIKAS"
 msgid "Adrenal Regulator"
-msgstr ""
+msgstr "肾上腺调节器"
 
 #: STRINGS.ITEMS.AUGMENTS.NIKAS_2
 msgctxt "STRINGS.ITEMS.AUGMENTS.NIKAS_2"
 msgid "Discharge Re-router"
-msgstr ""
+msgstr "放电充能装置"
 
 #: STRINGS.ITEMS.AUGMENTS.NIKAS_2_FLAVOR
 msgctxt "STRINGS.ITEMS.AUGMENTS.NIKAS_2_FLAVOR"
 msgid "Nika loves scrambling neurons so much, she had a tech write a custom routine that makes her disrupter recharge itself and everything around it."
-msgstr ""
+msgstr "尼卡曾花费多年研究自己的神经网络，她为自己编写了一段代码来利用她的神经干扰装置散发的电能为她周围的设备充电。"
 
 #: STRINGS.ITEMS.AUGMENTS.NIKAS_2_TIP
 msgctxt "STRINGS.ITEMS.AUGMENTS.NIKAS_2_TIP"
 msgid "Once per turn, agent's DISRUPTER ATTACK reduces all ITEM COOLDOWNS by 1"
-msgstr ""
+msgstr "特工的神经干扰攻击减少其所有物品的冷却时间，每回合只能触发一次。"
 
 #: STRINGS.ITEMS.AUGMENTS.NIKAS_FLAVOR
 msgctxt "STRINGS.ITEMS.AUGMENTS.NIKAS_FLAVOR"
 msgid "In an emergency, Nika can flood her nervous system with hot liquid aggression. Sometimes she does it just for fun."
-msgstr ""
+msgstr "在紧急时刻，尼卡能够在她的神经系统中释放大量侵略性化学信号。有时她也会这样做来消遣。"
 
 #: STRINGS.ITEMS.AUGMENTS.NIKAS_TIP
 msgctxt "STRINGS.ITEMS.AUGMENTS.NIKAS_TIP"
 msgid "Gives the agent an extra ATTACK a turn. Gains 3 AP after any ATTACK."
-msgstr ""
+msgstr "特工每回合有一次额外的攻击机会，每次攻击获得3个行动点。"
 
 #: STRINGS.ITEMS.AUGMENTS.PENETRATION_SCANNER
 msgctxt "STRINGS.ITEMS.AUGMENTS.PENETRATION_SCANNER"
