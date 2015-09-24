@@ -8274,77 +8274,77 @@ msgstr "那应该是最后一个守卫了。<c:faff0a>观察</>他来预测他�
 #: STRINGS.MISSIONS.JAILBREAK.OPERATOR_OBSERVE_GUARD_2
 msgctxt "STRINGS.MISSIONS.JAILBREAK.OPERATOR_OBSERVE_GUARD_2"
 msgid "Looks like he's patroling. No trouble as long as we stay behind <c:faff0a>cover</> and out of his sight."
-msgstr ""
+msgstr "看来他在巡逻。只要我们借助<c:faff0a>掩体</>来规避他的视线应该就能躲过他。"
 
 #: STRINGS.MISSIONS.JAILBREAK.OPERATOR_PEEK
 msgctxt "STRINGS.MISSIONS.JAILBREAK.OPERATOR_PEEK"
 msgid "We don't have visibility on the hallway. You'll have to manually check for hostiles."
-msgstr ""
+msgstr "我们没有走廊上的视野。你需要亲自派人去侦察。"
 
 #: STRINGS.MISSIONS.JAILBREAK.OPERATOR_PEEK_CORNER
 msgctxt "STRINGS.MISSIONS.JAILBREAK.OPERATOR_PEEK_CORNER"
 msgid "Get Decker up to the recon point so he can get a better look."
-msgstr ""
+msgstr "派遣戴克到侦察点来侦察前方"
 
 #: STRINGS.MISSIONS.JAILBREAK.OPERATOR_PINNED
 msgctxt "STRINGS.MISSIONS.JAILBREAK.OPERATOR_PINNED"
 msgid "Brutal, but effective. <c:faff0a>Proceed to the next door</>."
-msgstr ""
+msgstr "生硬，但有效。<c:faff0a>前进到下一个门那里</>。"
 
 #: STRINGS.MISSIONS.JAILBREAK.OPERATOR_REMIND_INCOGNITA
 msgctxt "STRINGS.MISSIONS.JAILBREAK.OPERATOR_REMIND_INCOGNITA"
 msgid "Only one camera between you and the exit.\n<c:faff0a>Use Incognita</> to take it over."
-msgstr ""
+msgstr "只有一个摄像机挡在你面前了。\n<c:faff0a>使用匿名子</>来接管它。"
 
 #: STRINGS.MISSIONS.JAILBREAK.OPERATOR_SEE_ARMOR
 msgctxt "STRINGS.MISSIONS.JAILBREAK.OPERATOR_SEE_ARMOR"
 msgid "That guard is wearing <c:faff0a>armor</c>. Be careful - the Disrupter won't work on him."
-msgstr ""
+msgstr "这个守卫装备着<c:faff0a>护甲</c>。小心了，我们的普通神经干扰装置无法击穿它。"
 
 #: STRINGS.MISSIONS.JAILBREAK.OPERATOR_SEE_ARMOR_2
 msgctxt "STRINGS.MISSIONS.JAILBREAK.OPERATOR_SEE_ARMOR_2"
 msgid "We'll have to use his <c:faff0a>blind spots</c> to slip by."
-msgstr ""
+msgstr "我们需要利用他的<c:faff0a>视野盲区</c>来溜过去。"
 
 #: STRINGS.MISSIONS.JAILBREAK.OPERATOR_SHUT_THE_DOOR
 msgctxt "STRINGS.MISSIONS.JAILBREAK.OPERATOR_SHUT_THE_DOOR"
 msgid "<c:faff0a>Close the door</> to cover our tracks. If they catch us we'll lose uplink again."
-msgstr ""
+msgstr "<c:faff0a>关上门</>来掩蔽踪迹。如果他们抓到戴克，我们会失去与他的神经上行链路。"
 
 #: STRINGS.MISSIONS.JAILBREAK.OPERATOR_TOOLS
 msgctxt "STRINGS.MISSIONS.JAILBREAK.OPERATOR_TOOLS"
 msgid "Decker's tools should be in that safe. He'll need his <c:faff0a>Neural Disrupter</> to take down these guards."
-msgstr ""
+msgstr "戴克的工具应该被放在那个保险柜里。他需要取得他的<c:faff0a>神经干扰器</>来放倒那个保安。"
 
 #: STRINGS.MISSIONS.JAILBREAK.OPERATOR_WAITING
 msgctxt "STRINGS.MISSIONS.JAILBREAK.OPERATOR_WAITING"
 msgid "<c:faff0a>Get to the door.</>"
-msgstr ""
+msgstr "<c:faff0a>去门那里。</>"
 
 #: STRINGS.MISSIONS.JAILBREAK.OPERATOR_WON
 msgctxt "STRINGS.MISSIONS.JAILBREAK.OPERATOR_WON"
 msgid "We're done here. Rendezvous with Internationale, and get ready for the next mission. We've got a lot more work to do."
-msgstr ""
+msgstr "完成。去和国际妹会和，然后准备执行下一项任务。我们还有许多事情要做呢。"
 
 #: STRINGS.MISSIONS.JAILBREAK.TUTORIAL_INTRO.1
 msgctxt "STRINGS.MISSIONS.JAILBREAK.TUTORIAL_INTRO.1"
 msgid "Operator, we have a delicate situation here.\n\nDecker found himself some trouble on his day off. Something involving a whiskey bar and his big, loud mouth."
-msgstr ""
+msgstr "操作员，现在的处境有些尴尬。\n\n戴克在他休假的时候又闯祸了。事情大致起源于威士忌酒吧和他那张大嘴巴。"
 
 #: STRINGS.MISSIONS.JAILBREAK.TUTORIAL_INTRO.2
 msgctxt "STRINGS.MISSIONS.JAILBREAK.TUTORIAL_INTRO.2"
 msgid "He's usually better at covering up after such indiscretions, but this time FTM security got the drop on him."
-msgstr ""
+msgstr "他通常能在闯祸之后成功脱险，但这一次FTM安全中心找上了他。"
 
 #: STRINGS.MISSIONS.JAILBREAK.TUTORIAL_INTRO.3
 msgctxt "STRINGS.MISSIONS.JAILBREAK.TUTORIAL_INTRO.3"
 msgid "They noticed his non-market augments, and now they're curious about where he got them.\n\nI'd like to leave him to sweat it out for a while, but we can't have this coming back on us. We're going to break him out."
-msgstr ""
+msgstr "他们注意到了他身上的违禁植入体，于是他们想知道他是从哪里弄来这些东西的。\n\n我非常希望能把戴克留在审讯室吃点教训，但这太冒险了，我们必须在审讯前解救他。"
 
 #: STRINGS.MISSIONS.JAILBREAK.TUTORIAL_INTRO.4
 msgctxt "STRINGS.MISSIONS.JAILBREAK.TUTORIAL_INTRO.4"
 msgid "Incognita has activated his failsafe neural uplink. I'm patching you through now."
-msgstr ""
+msgstr "匿名子已经接入了他的神经上行链路，我马上就把你接上线。"
 
 #: STRINGS.MISSIONS.JAILBREAK.TUTORIAL_INTRO.5
 msgctxt "STRINGS.MISSIONS.JAILBREAK.TUTORIAL_INTRO.5"
