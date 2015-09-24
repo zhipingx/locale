@@ -8349,22 +8349,22 @@ msgstr "匿名子已经接入了他的神经上行链路，我马上就把你接
 #: STRINGS.MISSIONS.JAILBREAK.TUTORIAL_INTRO.5
 msgctxt "STRINGS.MISSIONS.JAILBREAK.TUTORIAL_INTRO.5"
 msgid "Neural Uplink Initialized."
-msgstr ""
+msgstr "神经上行链路建立完成。"
 
 #: STRINGS.MISSIONS.LOCATIONS.CEO_OFFICE.DESCRIPTION
 msgctxt "STRINGS.MISSIONS.LOCATIONS.CEO_OFFICE.DESCRIPTION"
 msgid "Find the target, and hack into his cranial security."
-msgstr ""
+msgstr "找到目标，然后黑进他的颅内安全系统。"
 
 #: STRINGS.MISSIONS.LOCATIONS.CEO_OFFICE.INSET_TITLE
 msgctxt "STRINGS.MISSIONS.LOCATIONS.CEO_OFFICE.INSET_TITLE"
 msgid "FINANCIAL PASS CODE"
-msgstr ""
+msgstr "财务密码"
 
 #: STRINGS.MISSIONS.LOCATIONS.CEO_OFFICE.INSET_TXT
 msgctxt "STRINGS.MISSIONS.LOCATIONS.CEO_OFFICE.INSET_TXT"
 msgid "A highly-placed financial officer has an office in this facility.\n\nWith his access codes, we can manipulate the market to our advantage."
-msgstr ""
+msgstr "一个高级财务官员被安置在这个设施内"
 
 #: STRINGS.MISSIONS.LOCATIONS.CEO_OFFICE.MORE_INFO
 msgctxt "STRINGS.MISSIONS.LOCATIONS.CEO_OFFICE.MORE_INFO"
@@ -17745,4 +17745,3 @@ msgstr "恭喜你完成了专家模式！\n同时感谢你选择ZephyrSails提�
 msgctxt "STRINGS.WIN_TIPS.EXPERT_PLUS"
 msgid "Thank you for playing!\nFor even more variety, you can try our Time Attack and Endless options."
 msgstr "你不可思议的完成了大师模式！\n同时感谢你选择ZephyrSails提供的翻译！\n你可以在定时模式和无尽模式中找到更多乐趣！"
-
