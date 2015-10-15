@@ -9069,67 +9069,67 @@ msgstr "还不是时候。"
 #: STRINGS.MOVIE_SUBS.END_8
 msgctxt "STRINGS.MOVIE_SUBS.END_8"
 msgid "I'm getting the hell out of here.\nYou need to do the same if you want to live."
-msgstr ""
+msgstr "我要闪人了。\n如果你想活下去的话，你也应该这么做。"
 
 #: STRINGS.MOVIE_SUBS.END_9
 msgctxt "STRINGS.MOVIE_SUBS.END_9"
 msgid "There you are."
-msgstr ""
+msgstr "你在这儿啊。"
 
 #: STRINGS.MOVIE_SUBS.INTRO_1
 msgctxt "STRINGS.MOVIE_SUBS.INTRO_1"
 msgid "Get to the main server, collect the data and get out.\nNo detours."
-msgstr ""
+msgstr "找到主服务器，下载数据，然后赶紧离开。\n不要浪费时间。"
 
 #: STRINGS.MOVIE_SUBS.INTRO_10
 msgctxt "STRINGS.MOVIE_SUBS.INTRO_10"
 msgid "They should have detected us by now."
-msgstr ""
+msgstr "他们现在应该察觉到我们了才对啊。"
 
 #: STRINGS.MOVIE_SUBS.INTRO_11
 msgctxt "STRINGS.MOVIE_SUBS.INTRO_11"
 msgid "<c:8CFFFF>Receiving priority one transmission.</>"
-msgstr ""
+msgstr "<c:8CFFFF>收到重要视频连接请求</>"
 
 #: STRINGS.MOVIE_SUBS.INTRO_12
 msgctxt "STRINGS.MOVIE_SUBS.INTRO_12"
 msgid "They are on to you, get out.\nGet out of there!"
-msgstr ""
+msgstr "他们发现你们了。\n快跑！"
 
 #: STRINGS.MOVIE_SUBS.INTRO_13
 msgctxt "STRINGS.MOVIE_SUBS.INTRO_13"
 msgid "HQ compromised.\nWe're going to need an extraction."
-msgstr ""
+msgstr "司令部被占领了。\n我们需要协助撤离。"
 
 #: STRINGS.MOVIE_SUBS.INTRO_14
 msgctxt "STRINGS.MOVIE_SUBS.INTRO_14"
 msgid "I've got Incognita.\nDecker and Internationale are on their way."
-msgstr ""
+msgstr "我拿到匿名子了。\n戴克和国际妹已经在路上了。"
 
 #: STRINGS.MOVIE_SUBS.INTRO_15
 msgctxt "STRINGS.MOVIE_SUBS.INTRO_15"
 msgid "Get to the roof, I'll cover you."
-msgstr ""
+msgstr "去楼顶，我掩护你。"
 
 #: STRINGS.MOVIE_SUBS.INTRO_16
 msgctxt "STRINGS.MOVIE_SUBS.INTRO_16"
 msgid "Go!"
-msgstr ""
+msgstr "快走！"
 
 #: STRINGS.MOVIE_SUBS.INTRO_17
 msgctxt "STRINGS.MOVIE_SUBS.INTRO_17"
 msgid "Decker, how long til extraction?"
-msgstr ""
+msgstr "戴克，你们还要多久？"
 
 #: STRINGS.MOVIE_SUBS.INTRO_18
 msgctxt "STRINGS.MOVIE_SUBS.INTRO_18"
 msgid "30 seconds."
-msgstr ""
+msgstr "30秒。"
 
 #: STRINGS.MOVIE_SUBS.INTRO_19
 msgctxt "STRINGS.MOVIE_SUBS.INTRO_19"
 msgid "Get us out of here."
-msgstr ""
+msgstr "快带我们走。"
 
 #: STRINGS.MOVIE_SUBS.INTRO_2
 msgctxt "STRINGS.MOVIE_SUBS.INTRO_2"
